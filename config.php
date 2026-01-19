@@ -1,8 +1,8 @@
 <?php 
-$host = 'localhost';
-$dbname = 'user_registration';
-$username = 'user_registration';
-$password = 'user_registration';
+$host = '	sql112.infinityfree.com';
+$dbname = 'if0_40937098_user_register';
+$username = 'if0_40937098';
+$password = 'loginform123!';
 
 // Data source name
 $dsn = "mysql:host=$host;dbname=$dbname;charset=utf8mb4";
